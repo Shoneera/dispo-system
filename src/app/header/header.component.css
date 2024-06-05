@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e0e7ff;
+    padding: 10px;
+  }
+  
+  input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .search-btn {
+    padding: 10px;
+    background-color: #3b82f6;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+  

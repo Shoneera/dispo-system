@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8fafc;
+  }
+  
+  .container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
